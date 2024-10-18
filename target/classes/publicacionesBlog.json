@@ -1,0 +1,16 @@
+[ {
+  "id" : 1,
+  "titulo" : "Salvador",
+  "contenido" : "Adios",
+  "fecha_de_publicacion" : [ 2024, 10, 18, 14, 30 ]
+}, {
+  "id" : 2,
+  "titulo" : "Felipe",
+  "contenido" : "Adios",
+  "fecha_de_publicacion" : [ 2024, 10, 18, 14, 30 ]
+}, {
+  "id" : 3,
+  "titulo" : "Lopez",
+  "contenido" : "Minecraft",
+  "fecha_de_publicacion" : [ 2024, 10, 18, 14, 30 ]
+} ]
